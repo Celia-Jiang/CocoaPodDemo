@@ -61,6 +61,7 @@
 		AAADAFCF23B5A5CD00CFAE8C /* CocoaPodDemo */ = {
 			isa = PBXGroup;
 			children = (
+				AAADAFE923B5D84000CFAE8C /* Classes */,
 				AAADAFD023B5A5CD00CFAE8C /* AppDelegate.h */,
 				AAADAFD123B5A5CD00CFAE8C /* AppDelegate.m */,
 				AAADAFD323B5A5CD00CFAE8C /* SceneDelegate.h */,
@@ -74,6 +75,13 @@
 				AAADAFE223B5A5D000CFAE8C /* main.m */,
 			);
 			path = CocoaPodDemo;
+			sourceTree = "<group>";
+		};
+		AAADAFE923B5D84000CFAE8C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
